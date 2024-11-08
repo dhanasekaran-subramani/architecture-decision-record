@@ -61,7 +61,7 @@ ADRs help maintain a clear history of architectural decisions, making it easier 
 10. **Link to Related ADRs:** If there are related decisions, link to those ADRs. This helps in understanding the broader context and how decisions are interconnected.
 
 
-**What are some common tools for documenting architecture decisions?**
+# What are some common tools for documenting architecture decisions?
 
 1. **Markdown Files:** Simple and effective, Markdown files can be stored in a version-controlled repository (e.g., GitHub, GitLab). They are easy to write and maintain.
 
