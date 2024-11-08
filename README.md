@@ -38,7 +38,7 @@ Here's a template for an ADR:
 ADRs help maintain a clear history of architectural decisions, making it easier to understand the evolution of a system's architecture.
 
 
-# What are some best practices for writing effective ADRs?
+# Best practices for writing effective ADRs
 
 1. **Be Concise and Clear:** Write in a clear and concise manner. Avoid jargon and overly complex language. The goal is to make the ADR understandable to anyone who reads it.
 
@@ -61,7 +61,7 @@ ADRs help maintain a clear history of architectural decisions, making it easier 
 10. **Link to Related ADRs:** If there are related decisions, link to those ADRs. This helps in understanding the broader context and how decisions are interconnected.
 
 
-# What are some common tools for documenting architecture decisions?
+# Tools for documenting architecture decisions
 
 1. **Markdown Files:** Simple and effective, Markdown files can be stored in a version-controlled repository (e.g., GitHub, GitLab). They are easy to write and maintain.
 
