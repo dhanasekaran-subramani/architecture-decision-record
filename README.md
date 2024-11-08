@@ -60,3 +60,23 @@ ADRs help maintain a clear history of architectural decisions, making it easier 
 
 10. **Link to Related ADRs:** If there are related decisions, link to those ADRs. This helps in understanding the broader context and how decisions are interconnected.
 
+
+**What are some common tools for documenting architecture decisions?**
+
+1. **Markdown Files:** Simple and effective, Markdown files can be stored in a version-controlled repository (e.g., GitHub, GitLab). They are easy to write and maintain.
+
+2. **Docs-as-Code Platforms:** Tools like MkDocs, Docusaurus, and Jekyll allow you to write documentation in Markdown and generate static websites. These platforms integrate well with version control systems.
+
+3. **Wikis:** Platforms like Confluence, GitHub Wiki, and GitLab Wiki provide collaborative environments for documenting decisions. They offer rich text editing and linking capabilities.
+
+4. **Google Docs or Microsoft Word:** These tools are familiar to many and offer collaborative editing features. They are suitable for teams that prefer a more traditional document format.
+
+5. **ADR Tools:** Specific tools like adr-tools (a command-line tool for managing ADRs) help in creating and managing ADRs in a consistent format.
+
+6. **Project Management Tools:** Tools like Jira, Trello, and Asana can be used to document decisions as part of project tasks or stories. They provide context and traceability within the project management workflow.
+
+7. **Notion:** A versatile tool that combines note-taking, databases, and wikis. It allows for rich documentation and linking between decisions.
+
+8. **SharePoint:** For organizations using Microsoft ecosystems, SharePoint provides a centralized location for storing and managing documents, including ADRs.
+
+Each tool has its own strengths and can be chosen based on the team's workflow, familiarity, and specific needs.
